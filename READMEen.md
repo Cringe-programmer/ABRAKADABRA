@@ -7,3 +7,5 @@ DEUTSCH : https://github.com/Cringe-programmer/ABRAKADABRA/blob/main/READMEde.md
 FRANÇAIS : https://github.com/Cringe-programmer/ABRAKADABRA/blob/main/READMEfr.md
 
 NORSK BOKMÅL : https://github.com/Cringe-programmer/ABRAKADABRA/blob/main/READMEno.md
+
+![image](https://github.com/user-attachments/assets/4679dd3e-1bd9-4723-8681-008684b1db20)
