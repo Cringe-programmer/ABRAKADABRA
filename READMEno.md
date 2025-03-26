@@ -1,4 +1,5 @@
-#Hei!#
+#Hei!
+
 *Du har besøkt en Git-repo laget av en fan av dead inside-sanger og Lady Gagas musikk og kreativitet!*
 
 Denne filen er skrevet på norsk bokmål. For støtte på andre språk, vennligst følg lenkene~~~~~
