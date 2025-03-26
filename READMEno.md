@@ -1,4 +1,4 @@
-Hei!
+# Hei!
 
 *Du har besøkt en Git-repo laget av en fan av dead inside-sanger og Lady Gagas musikk og kreativitet!*
 
