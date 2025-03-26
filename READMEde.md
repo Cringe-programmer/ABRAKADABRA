@@ -1,4 +1,4 @@
-HalLo!
+Hallo!
 
 Sie haben ein Git-Repo besucht, das von einem Fan von Dead-Inside-Liedern und Lady Gagas Musik und Kreativität erstellt wurde!
 
